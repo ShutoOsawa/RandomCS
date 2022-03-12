@@ -1,0 +1,16 @@
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\bin\Debug\net5.0\DecouplePractice.exe
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\bin\Debug\net5.0\DecouplePractice.deps.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\bin\Debug\net5.0\DecouplePractice.runtimeconfig.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\bin\Debug\net5.0\DecouplePractice.runtimeconfig.dev.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\bin\Debug\net5.0\DecouplePractice.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\bin\Debug\net5.0\ref\DecouplePractice.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\bin\Debug\net5.0\DecouplePractice.pdb
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\DecouplePractice.csproj.AssemblyReference.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\DecouplePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\DecouplePractice.AssemblyInfoInputs.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\DecouplePractice.AssemblyInfo.cs
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\DecouplePractice.csproj.CoreCompileInputs.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\DecouplePractice.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\ref\DecouplePractice.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\DecouplePractice.pdb
+C:\Users\Fridge\Documents\CSGit\RandomCS\DecouplePractice\DecouplePractice\obj\Debug\net5.0\DecouplePractice.genruntimeconfig.cache
