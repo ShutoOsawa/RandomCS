@@ -1,0 +1,16 @@
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.exe
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.deps.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.dev.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\bin\Debug\net5.0\ref\SocketServer.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.pdb
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfo.cs
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\ref\SocketServer.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.pdb
+C:\Users\Fridge\Documents\CSGit\RandomCS\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.genruntimeconfig.cache

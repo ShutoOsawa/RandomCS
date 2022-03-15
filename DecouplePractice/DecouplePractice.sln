@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecouplePractice", "DecouplePractice\DecouplePractice.csproj", "{3C60835D-165E-4972-AC6A-1D8B9CAB96B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecouplePracticeTest", "DecouplePracticeTest\DecouplePracticeTest.csproj", "{98544AFB-FDF9-4F18-B634-BBC90A542F58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3C60835D-165E-4972-AC6A-1D8B9CAB96B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C60835D-165E-4972-AC6A-1D8B9CAB96B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C60835D-165E-4972-AC6A-1D8B9CAB96B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98544AFB-FDF9-4F18-B634-BBC90A542F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98544AFB-FDF9-4F18-B634-BBC90A542F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98544AFB-FDF9-4F18-B634-BBC90A542F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98544AFB-FDF9-4F18-B634-BBC90A542F58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

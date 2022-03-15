@@ -1,0 +1,16 @@
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.exe
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.deps.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.runtimeconfig.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.runtimeconfig.dev.json
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\bin\Debug\net5.0\ref\EnumPractice.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\bin\Debug\net5.0\EnumPractice.pdb
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.csproj.AssemblyReference.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.AssemblyInfoInputs.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.AssemblyInfo.cs
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.csproj.CoreCompileInputs.cache
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\ref\EnumPractice.dll
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.pdb
+C:\Users\Fridge\Documents\CSGit\RandomCS\EnumPractice\EnumPractice\obj\Debug\net5.0\EnumPractice.genruntimeconfig.cache
