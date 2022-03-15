@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using DateTimeExample;
-
+using System;
 
 namespace DateTimeExampleTest
 {
@@ -11,13 +11,19 @@ namespace DateTimeExampleTest
         public void Setup()
         {
 
-            timeOfDay = SetTime.GetTimeOfDay();
+            timeOfDay = SetTime.GetTimeOfDay(new DateTime(2015, 12, 31, 06, 00, 00));
         }
 
         [Test]
         public void Test1()
         {
-            Assert.AreEqual("Night",timeOfDay);
+            Assert.AreEqual("Morning",timeOfDay);
+        }
+
+        [Test]
+        public void Test2()
+        {
+            Assert.AreNotEqual("Night", timeOfDay);
         }
     }
 }
